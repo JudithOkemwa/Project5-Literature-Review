@@ -1,0 +1,2 @@
+
+This project delves into the intricate relationships between various digital assets, including cryptocurrencies, stablecoins, and Central Bank Digital Currencies (CBDCs), and the technological evolution that has led to the development of CBDCs. It examines the limitations and potential of Distributed Ledger Technology (DLT), the underlying technology of most digital assets, and its role in the future of digital currencies.
